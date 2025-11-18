@@ -39,19 +39,5 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 24ace4b (프로젝트 첫 커밋)
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
-<<<<<<< HEAD
-
 .venv/
 .history/
-
-
-=======
->>>>>>> 24ace4b (프로젝트 첫 커밋)
