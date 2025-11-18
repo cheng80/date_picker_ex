@@ -45,7 +45,8 @@ class _AppleDatePickerState extends State<AppleDatePicker> {
   
   @override
   void dispose() {
-
+    _stopTimer();
+    _timer = null;
     super.dispose();
   }
 
@@ -130,7 +131,7 @@ class _AppleDatePickerState extends State<AppleDatePicker> {
     print("Stop Timer");
     _timer?.cancel();
   }
-
+  
   _getWeekdayText(int weekday){
     //
     switch(weekday){
