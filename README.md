@@ -1,16 +1,4 @@
 # date_picker_ex
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+애플 데이터 피커로 선택한 시간과 현재 시간을 비교하여
+분까지 동일한 경우에 배경색을 1초에 한번씩 교채하여 보여 주는 알람 앱
